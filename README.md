@@ -10,7 +10,7 @@ Neural network is the important in the model, changing the hyper parameters can 
 
 Before training
 
-![aaa](https://github.com/susannawcl1120/LunarLander-v2/blob/master/ezgif.com-video-to-gif.gif)
+![aaa]()
 
 ---
 
