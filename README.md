@@ -10,12 +10,13 @@ Neural network is the important in the model, changing the hyper parameters can 
 
 Before training
 
-![aaa]()
+![aaa](https://github.com/susannawcl1120/LunarLander-v2/blob/master/before_training.gif)
 
 ---
 
-After traning for steps
+After traning for 150000 steps(Dense 128 units, activation="relu")
+
+(It should be remind that next_action need to adjust for different gym game, Lunarlander need to adjust 4 actions)
 
 ![bbb](https://github.com/susannawcl1120/LunarLander-v2/blob/master/lunarLander_best_result.gif)
 
-Best result from official code
