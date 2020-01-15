@@ -1,1 +1,11 @@
 # LunarLander-v2
+
+The training model of LunarLander-v2 is using SARSA as policy in OpenAI gym box2D environment.
+It requires keras-rl 2 as the framework and trains on the Google Colab.
+Neural network is the important in the model, changing the hyper parameters can received a better result. The following shows the demostration video:
+
+Before training
+
+After traning for steps
+
+Best result from official code
