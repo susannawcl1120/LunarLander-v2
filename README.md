@@ -13,5 +13,6 @@ Before training
 ![aaa](https://github.com/susannawcl1120/LunarLander-v2/blob/master/ezgif.com-video-to-gif.gif)
 
 After traning for steps
+![](https://github.com/susannawcl1120/LunarLander-v2/blob/master/lunarLander_best_result.gif)
 
 Best result from official code
